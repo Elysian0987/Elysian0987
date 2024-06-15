@@ -4,8 +4,6 @@
 
 - 🌱I’m currently pursuing **a Bachelor's degree of Technology in Information Technology and Honors in Cyber Security**
 
-- 📫 How to reach me **LinkedIn : www.linkedin.com/in/samrudhi-b-4564a1258**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samrudhi b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrudhi b" height="30" width="40" /></a>
