@@ -1,6 +1,7 @@
 <!-- ## Hi there 👋 -->
-<h1 align="center">Hi 👋, I'm Samrudhi</h1>
-<h3 align="center">Passionate about web development, machine learning, and blockchain technology.</h3>
+<h1 align="center">Hey there! 👋 👋, I'm Samrudhi</h1>
+<!-- <h3 align="center">Passionate about web development, machine learning, and blockchain technology.</h3> -->
+<h3 align="center">Brewing coffee & fresh ideas ☕💡</h3>
 
 - 🌱I’m currently pursuing **a Bachelor's degree of Technology in Information Technology and Honors in Cyber Security**
 
