@@ -1,9 +1,12 @@
 <!-- ## Hi there 👋 -->
-<h1 align="center">Hey there! 👋 👋, I'm Samrudhi</h1>
+<h1 align="center">Hey there! 👋, I'm Samrudhi</h1>
 <!-- <h3 align="center">Passionate about web development, machine learning, and blockchain technology.</h3> -->
 <h3 align="center">Brewing coffee & fresh ideas ☕💡</h3>
 
 - 🌱I’m currently pursuing **a Bachelor's degree of Technology in Information Technology and Honors in Cyber Security**
+- 🛠️ Web Dev, ML, and Blockchain—because one tech isn't enough! 
+- 🤝 Let’s create something cool together! Connect on **[LinkedIn](https://linkedin.com/in/samrudhi-b)**  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
