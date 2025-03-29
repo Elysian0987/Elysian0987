@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Samrudhi</h1>
-<h3 align="center">Brewing coffee & fresh ideas ☕💡</h3>
+<h2 align="center">Brewing coffee & fresh ideas ☕💡</h2>
 
 - 🎓 Pursuing **B.Tech in Information Technology** with **Honors in Cyber Security**  
 - 🛠️ Exploring **Web Development, Machine Learning, and Blockchain**—because one tech isn't enough!  
