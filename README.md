@@ -1,17 +1,15 @@
-<!-- ## Hi there 👋 -->
-<h1 align="center">Hey there! 👋, I'm Samrudhi</h1>
-<!-- <h3 align="center">Passionate about web development, machine learning, and blockchain technology.</h3> -->
+<h1 align="center">Hey there! 👋 I'm Samrudhi</h1>
 <h3 align="center">Brewing coffee & fresh ideas ☕💡</h3>
 
-- 🌱I’m currently pursuing **a Bachelor's degree of Technology in Information Technology and Honors in Cyber Security**
-- 🛠️ Web Dev, ML, and Blockchain—because one tech isn't enough! 
-- 🤝 Let’s create something cool together! Connect on **[LinkedIn](https://linkedin.com/in/samrudhi-b)**  
-
+- 🎓 Pursuing **B.Tech in Information Technology** with **Honors in Cyber Security**  
+- 🛠️ Exploring **Web Development, Machine Learning, and Blockchain**—because one tech isn't enough!  
+- 💡 Passionate about **building secure, scalable, and impactful solutions**  
+- 🤝 Always open to collaborations! Let’s connect on **[LinkedIn](https://linkedin.com/in/samrudhi-b)**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samrudhi b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrudhi b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/samrudhi b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samrudhi b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samrudhi-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/samrudhi-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
