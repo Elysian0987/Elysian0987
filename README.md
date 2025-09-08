@@ -1,12 +1,12 @@
 <h1 align="center">Hey there! 👋, I'm Samrudhi</h1>
 
 <h2 align="center">Brewing coffee & fresh ideas ☕💡</h2>
-
+ 
 - 🌱 Pursuing **B.Tech in Information Technology (Honors in Cyber Security)**  
 - 🛠️ Exploring **AI/ML, Blockchain, Full-Stack Web Development, and Cybersecurity**  
 - 🚀 Building fintech solutions, virtual labs & impactful tech-driven projects  
-- 🤝 Let’s collaborate! Connect on **[LinkedIn](https://linkedin.com/in/samrudhi-b)**  
-
+- 🌐 Check out my **[Portfolio](https://samrudhib-portfolio.web.app/)**
+- 🤝 Let's collaborate! Connect on **[LinkedIn](https://linkedin.com/in/samrudhi-b)**
 ---
 
 ### 🔧 Tech Stack & Tools  
