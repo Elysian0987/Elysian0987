@@ -1,15 +1,17 @@
 <h1 align="center">Hey there! 👋, I'm Samrudhi</h1>
-
 <h2 align="center">Brewing coffee & fresh ideas ☕💡</h2>
- 
-- 🌱 Pursuing **B.Tech in Information Technology (Honors in Cyber Security)**  
-- 🛠️ Exploring **AI/ML, Blockchain, Full-Stack Web Development, and Cybersecurity**  
-- 🚀 Building fintech solutions, virtual labs & impactful tech-driven projects  
-- 🌐 Check out my **[Portfolio](https://samrudhib-portfolio.web.app/)**
-- 🤝 Let's collaborate! Connect on **[LinkedIn](https://linkedin.com/in/samrudhi-b)**
+
+### Building the future with code, one commit at a time
+
+Currently pursuing B.Tech in Information Technology with Honors in Cyber Security. I'm passionate about creating impactful solutions across **AI/ML**, **Blockchain**, **Full-Stack Development**, and **Cybersecurity**.
+
+🚀 Building fintech solutions, virtual labs & impactful tech-driven projects
+
+🌐 **[Portfolio](https://samrudhib-portfolio.web.app/)** | 📧 **[samrudhib24@gmail.com](mailto:samrudhib24@gmail.com)**
+
 ---
 
-### 🔧 Tech Stack & Tools  
+###  Tech Stack & Tools  
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,6 +57,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 **AI & Machine Learning:**  
@@ -73,14 +76,14 @@
 <!--**Tools & IDEs:** -->
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elysian0987&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📬 Connect with Me  
+###  Connect with Me  
 <a href="https://linkedin.com/in/samrudhi-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrudhi b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/samrudhi_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samrudhi b" height="30" width="40" /></a>
 
