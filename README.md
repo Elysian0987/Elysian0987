@@ -104,5 +104,9 @@ Currently pursuing B.Tech in Information Technology with Honors in Cyber Securit
 ---
 
 <p align="center">
+  <em>// End of profile.md - Thanks for exploring my digital footprint! 💜</em>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Elysian0987&color=blueviolet" alt="Profile Views" />
 </p>
