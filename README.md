@@ -16,19 +16,6 @@ Currently pursuing B.Tech in Information Technology with Honors in Cyber Securit
 
 ---
 
-### GitHub Stats  
-
-<p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elysian0987&show_icons=true&theme=radical&hide_border=true" alt="Samrudhi's GitHub Stats" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elysian0987&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elysian0987&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### Tech Stack & Tools  
 
 **Languages:**  
@@ -100,5 +87,18 @@ Currently pursuing B.Tech in Information Technology with Honors in Cyber Securit
 ![WSL](https://img.shields.io/badge/WSL-4E4E4E?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### GitHub Stats  
+
+<p align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elysian0987&show_icons=true&theme=radical&hide_border=true" alt="Samrudhi's GitHub Stats" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elysian0987&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elysian0987&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
